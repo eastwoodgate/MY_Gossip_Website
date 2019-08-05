@@ -16,7 +16,8 @@ panne de courant généralisée dans mon quartier...(je n ai meme pas de batteri
 
 Je suis dégouté parceque je voulais avancer sur le projet.
 
-En bref, ca me ferai mal de perdre un joker a cause de ca (mon dernier en plus), pour des soucis de matériel. C est rageant.
+En bref, ca me ferai mal de perdre un joker a cause de ca 
+, pour des soucis de matériel. C est rageant.
 
 Bonne journée
 
