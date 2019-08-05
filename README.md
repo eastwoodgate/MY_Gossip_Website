@@ -1,4 +1,3 @@
-# MY_Gossip_Website
 
 Salut a toi.
 
@@ -17,8 +16,7 @@ panne de courant généralisée dans mon quartier...(je n ai meme pas de batteri
 
 Je suis dégouté parceque je voulais avancer sur le projet.
 
-En bref, ca me ferai mal de perdre un joker a cause de ca (mon dernier en plus), donc si tu pouvais etre clement dans la correction ce serait cool...
+En bref, ca me ferai mal de perdre un joker a cause de ca (mon dernier en plus), pour des soucis de matériel. C est rageant.
 
-Bonne journée, a demain
-
+Bonne journée
 
